@@ -24,12 +24,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikecot&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
 ---
 
 <p align="center">
